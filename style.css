@@ -1,0 +1,45 @@
+.Gener{
+    text-align: center;
+    
+}
+
+
+.rectangulo {
+    width: 2000px;
+    height: 30px;
+
+}
+
+
+.bloque {
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    
+    
+    
+    
+}
+
+.azul {
+    background-color: blue;
+    align-items: center;
+
+}
+
+.rojo {
+    background-color: red;
+}
+
+.amarillo {
+    background-color: yellow;
+    justify-content: center;
+}
+
+.verde {
+background-color: green;
+}
+
+.web{
+    background-color: aquamarine;
+}
